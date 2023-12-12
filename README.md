@@ -27,3 +27,9 @@ Medical dataset for NLP problem - https://www.kaggle.com/datasets/xhlulu/medal-e
 
 
 Healthcare NLP: LLMs, Transformers, Datasets - https://www.kaggle.com/datasets/jpmiller/layoutlm
+
+National Survey of Residential Care Facilities - https://datasetdirectory.disabilitystatistics.org/show/19
+
+Spinal Cord Injury Model System - https://datasetdirectory.disabilitystatistics.org/show/109
+
+
