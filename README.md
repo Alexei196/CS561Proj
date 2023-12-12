@@ -20,6 +20,9 @@ TBD
 
 # Datasets
 MEDIQA2019 - https://github.com/abachaa/MEDIQA2019/tree/master
+
 LiveQA_MedicalTask_TREC2017 - https://github.com/abachaa/LiveQA_MedicalTask_TREC2017
+
 Medical dataset for NLP problem - https://www.kaggle.com/datasets/xhlulu/medal-emnlp
+
 Healthcare NLP: LLMs, Transformers, Datasets - https://www.kaggle.com/datasets/jpmiller/layoutlm
