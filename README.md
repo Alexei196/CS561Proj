@@ -16,7 +16,7 @@ The chatbot utilizes a transformer model pre-trained on a bespoke dataset. This 
 
 # How to Run
 
-TBD
+Use the python notebook file inside called Verte inside of src
 
 # Datasets
 MEDIQA2019 - https://github.com/abachaa/MEDIQA2019/tree/master
